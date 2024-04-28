@@ -1,0 +1,5 @@
+n8n-with-postgres/data
+n8n-with-postgres/db
+
+n8n-queue-mode/data
+n8n-queue-mode/db
